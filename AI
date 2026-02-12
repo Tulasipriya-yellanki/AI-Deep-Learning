@@ -1,0 +1,7 @@
+This repository is a structured journey through the world of Artificial Intelligence and Deep Learning.[1][2] From the mathematical foundations of Neural Networks to the deployment of state-of-the-art Generative AI models, this project serves as a living documentation of my research and implementations.
+Tech Stack & Libraries
+Language: Python 
+Deep Learning: PyTorch, TensorFlow, Keras[3]
+Data Science: NumPy, Pandas, Scikit-Learn
+Visualization: Matplotlib, Seaborn, Plotly
+Stats: Scipy, Statsmodels
